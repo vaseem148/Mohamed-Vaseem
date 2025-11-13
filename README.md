@@ -1,65 +1,85 @@
-<h1 align="center">Hi 👋, I'm Mohamed Vaseem</h1>
-<h3 align="center">A passionate MERN Stack Developer | UI/UX Designer | Data Science Enthusiast</h3>
+<!-- ---------------------------------------------------------
+       🌟 MODERN ANIMATED GITHUB PROFILE – VASEEM148
+---------------------------------------------------------- -->
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&pause=1000&color=7F00FF&width=800&center=true&lines=Hi%2C+I'm+Mohamed+Vaseem!;MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Enthusiast;Full+Stack+Web+Developer" />
+
+---
+
+## 🚀 About Me  
+💡 MERN Stack Developer passionate about building fast, modern and user-friendly applications.  
+🎨 UI/UX lover who creates clean, minimal and aesthetic designs.  
+📊 Learning Data Science to merge **design + development + analytics**.  
+🔥 Always exploring new technologies and improving problem-solving skills.
+
+---
+
+## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" alt="Typing SVG"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,bootstrap,vite,figma,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **full-stack web applications** using MERN stack.
-- 🌱 I’m learning **Advanced Data Science & Machine Learning**.
-- 💡 I love designing **user-friendly UI/UX interfaces**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 📫 How to reach me: [Email Me](mailto:your.email@example.com)
-
----
-
-## 🛠️ My Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### 🖥️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 📊 Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## ⚡ My Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 📈 Contribution Streak  
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
+  <img src="https://streak-stats.demolab.com?user=vaseem148&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🎨 UI/UX Showcase (Animated)
 <p align="center">
-  "Coding is my superpower 🦸‍♂️"
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/resources/animat-lightbulb-color.gif" width="60" />
 </p>
+
+**Design Philosophy:**  
+✔ Clean Layouts  
+✔ Attractive Color Theory  
+✔ Smooth Interactions  
+✔ User-First Approach  
+
+---
+
+## 🔧 Tools I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,redux,firebase,linux,ps,ai" />
+</p>
+
+---
+
+## 📚 Data Science Skills  
+- Python  
+- Pandas & NumPy  
+- Matplotlib / Seaborn  
+- Data Cleaning / Analysis  
+- ML Basics  
+
+---
+
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=gatsby&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaseem148@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" />
+</p>
+
+---
+
+### ⭐ If you like this profile design, don't forget to star ⭐ your favourite repos!
+
