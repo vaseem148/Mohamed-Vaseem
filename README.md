@@ -2,80 +2,79 @@
 <h3 align="center">MERN Stack Developer • UI/UX Designer • Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;Data+Science+%26+AI+Learner;Building+Clean+%26+Modern+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Creative+UI%2FUX+Designer;Data+Science+%26+AI+Explorer;Building+Clean+%26+Modern+Digital+Experiences" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔥 Passionate about **modern web development** using MERN stack  
-- 🎨 Skilled in creating **minimal, user-focused UI/UX designs**  
-- 📊 Exploring **Data Science, Python, Machine Learning**  
-- 🤝 I love collaborating on **real-world projects & open-source**  
+- 💡 Passionate MERN Stack Developer focused on **clean, scalable web apps**
+- 🎨 UI/UX enthusiast—love crafting **minimal, user-centered interfaces**
+- 📊 Learning **Data Science, ML models & Python automation**
+- 🤝 Open to collaborating on **real-world projects & open-source**
 - 📩 Reach me at: **yourmail@example.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Frontend**
+### 🌐 **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" />
 </p>
 
-### **Backend**
+### ⚙️ **Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </p>
 
-### **UI / UX Tools**
+### 🎨 **UI / UX Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,ai" />
 </p>
 
-### **Data Science**
+### 📊 **Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas" />
 </p>
-
 
 ---
 
 ## 📈 GitHub Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Featured Skills (Professional View)
+## 🧩 Featured Skills (Professional Overview)
 
-#### **MERN Stack**
-- Building scalable APIs  
-- Creating full-stack applications  
-- Authentication, JWT, Middleware  
+### **MERN Stack**
+- Scalable REST APIs  
+- Full-stack applications  
+- JWT authentication & middleware  
 
-#### **UI/UX Design**
-- Wireframes → Prototypes  
+### **UI/UX Design**
+- Wireframes → Mockups → Prototypes  
 - Design systems  
-- Clean, minimal user-first designs  
+- Clean, modern user-first layouts  
 
-#### **Data Science**
-- Data cleaning  
-- Visualizations  
-- ML model basics  
+### **Data Science**
+- Data preprocessing  
+- Visualization  
+- ML model understanding (beginner → intermediate)  
 
 ---
 
-## 🏆 Highlight
+## 🏆 Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
