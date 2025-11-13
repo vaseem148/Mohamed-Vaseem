@@ -19,24 +19,25 @@
 ## 🚀 Tech Stack
 
 ### **Frontend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 </p>
 
 ### **Backend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### **UI / UX Tools**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,ai" />
 </p>
 
 ### **Data Science**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
 </p>
+
 
 ---
 
