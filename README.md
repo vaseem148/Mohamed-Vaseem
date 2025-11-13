@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Vaseem 👋</h1>
+<h1 align="center" color: gardiean>Hi, I'm Mohamed Vaseem 👋</h1>
 <h3 align="center">MERN Stack Developer • UI/UX Designer • Data Science Enthusiast</h3>
 
 <p align="center">
