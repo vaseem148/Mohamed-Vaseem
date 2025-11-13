@@ -11,8 +11,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
 #### 💻 Web Development (MERN)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite,js,html,css,tailwind,bootstrap,git,github,vscode" />
@@ -20,13 +18,14 @@
 
 #### 🎨 Design & UI/UX
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva,xd" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,canva,photoshop,illustrator,adobe" />
 </p>
 
 #### 📊 Data Science & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pandas,numpy,matplotlib,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,numpy,matplotlib,scikitlearn" />
 </p>
+
 
 ---
 
