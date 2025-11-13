@@ -1,76 +1,65 @@
-<h1 align="center">👋 Hi, I'm Mohamed Vaseem</h1>
-<h3 align="center">🚀 MERN Stack | 🎨 UI/UX | 📊 Data Science Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Vaseem</h1>
+<h3 align="center">A passionate MERN Stack Developer | UI/UX Designer | Data Science Enthusiast</h3>
 
----
-
-### 🌟 About Me
-- 💡 Full-Stack Developer passionate about building modern web apps  
-- 🧠 Exploring **Data Science** for analytics & visualization  
-- 🎨 Designing user-friendly **UI/UX interfaces**  
-- 📫 Reach me at: **yourmail@example.com**
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Web Development (MERN)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite,js,html,css,tailwind,bootstrap,git,github,vscode" />
-</p>
-
-#### 🎨 Design & UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,adobexd,canva,photoshop,illustrator" />
-</p>
-
-#### 📊 Data Science & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,numpy,matplotlib,scikitlearn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaseem148&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=tokyonight" />
-</p>
+## 🚀 About Me
+- 🔭 I’m currently working on **full-stack web applications** using MERN stack.
+- 🌱 I’m learning **Advanced Data Science & Machine Learning**.
+- 💡 I love designing **user-friendly UI/UX interfaces**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 📫 How to reach me: [Email Me](mailto:your.email@example.com)
 
 ---
 
-### 🪄 Highlight Projects
-- 🌐 **MERN Projects:** E-commerce, Portfolio, Admin Dashboard  
-- 🤖 **Data Science Projects:** Predictive models, Analysis & Visualization  
-- 🎨 **UI/UX Designs:** Interactive Figma prototypes  
+## 🛠️ My Tech Stack
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/vaseem148/vaseem148/blob/output/github-contribution-grid-snake.svg" />
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
----
+### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/vaseem148">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
+### 📊 Data Science & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">🔥 “Code. Design. Analyze. Create.” 🔥</h3>
-<h4 align="center">✨ Thanks for visiting! ✨</h4>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  "Coding is my superpower 🦸‍♂️"
+</p>
