@@ -15,7 +15,7 @@
 - 🎨 UI/UX designer who loves **vibrant, minimal & modern design**
 - 📊 Exploring **Python • Machine Learning • Automation**
 - 🤝 Available for **collaborations & freelance projects**
-- 📩 Mail: **yourmail@example.com**
+- 📩 Mail: **mohamedvaseem114.com**
 
 ---
 
